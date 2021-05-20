@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Hello Skillfactorygdggddgdf
 
+=======
+One more Good bye
+>>>>>>> parent of 6b06825 (Second changes)
